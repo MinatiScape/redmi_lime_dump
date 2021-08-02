@@ -1,0 +1,17 @@
+service mishow_start /system/bin/sh /system/bin/mishow.sh 1
+       class main
+       disabled
+       oneshot
+       seclabel u:r:mishow:s0
+
+service mishow_stop /system/bin/sh /system/bin/mishow.sh 0
+       class main
+       disabled
+       oneshot
+       seclabel u:r:mishow:s0
+
+on property:bsp.mishow.ctl=true
+       start mishow_start
+
+on property:bsp.mishow.ctl=false
+       start mishow_stop

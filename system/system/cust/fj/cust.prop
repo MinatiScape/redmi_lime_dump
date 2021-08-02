@@ -1,0 +1,11 @@
+persist.sys.timezone=Pacific/Fiji
+ro.product.locale.language=en
+ro.product.locale.region=FJ
+ro.miui.region=FJ
+ro.miui.mcc=9542
+ro.miui.mnc=9999
+ro.miui.cust_variant=fj
+ro.vendor.miui.region=FJ
+ro.vendor.miui.mcc=9542
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=fj

@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Tbilisi
+ro.product.locale.language=en
+ro.product.locale.region=GE
+ro.miui.region=GE
+ro.miui.mcc=9282
+ro.miui.mnc=9999
+ro.miui.cust_variant=ge
+ro.vendor.miui.region=GE
+ro.vendor.miui.mcc=9282
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ge

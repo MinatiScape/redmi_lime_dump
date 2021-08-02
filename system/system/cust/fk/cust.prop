@@ -1,0 +1,11 @@
+persist.sys.timezone=Atlantic/Stanley
+ro.product.locale.language=es
+ro.product.locale.region=FK
+ro.miui.region=FK
+ro.miui.mcc=9750
+ro.miui.mnc=9999
+ro.miui.cust_variant=fk
+ro.vendor.miui.region=FK
+ro.vendor.miui.mcc=9750
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=fk

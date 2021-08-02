@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Banjul
+ro.product.locale.language=en
+ro.product.locale.region=GM
+ro.miui.region=GM
+ro.miui.mcc=9607
+ro.miui.mnc=9999
+ro.miui.cust_variant=gm
+ro.vendor.miui.region=GM
+ro.vendor.miui.mcc=9607
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=gm

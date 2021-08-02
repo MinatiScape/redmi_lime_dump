@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Phnom_Penh
+ro.product.locale.language=km
+ro.product.locale.region=KH
+ro.miui.region=KH
+ro.miui.mcc=9456
+ro.miui.mnc=9999
+ro.miui.cust_variant=kh
+ro.vendor.miui.region=KH
+ro.vendor.miui.mcc=9456
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=kh

@@ -1,0 +1,11 @@
+persist.sys.timezone=Oceania/Funafuti
+ro.product.locale.language=en
+ro.product.locale.region=TV
+ro.miui.region=TV
+ro.miui.mcc=9553
+ro.miui.mnc=9999
+ro.miui.cust_variant=tv
+ro.vendor.miui.region=TV
+ro.vendor.miui.mcc=9553
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=tv

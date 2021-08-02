@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Lagos
+ro.product.locale.language=en
+ro.product.locale.region=NG
+ro.miui.region=NG
+ro.miui.mcc=9621
+ro.miui.mnc=9999
+ro.miui.cust_variant=ng
+ro.vendor.miui.region=NG
+ro.vendor.miui.mcc=9621
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ng

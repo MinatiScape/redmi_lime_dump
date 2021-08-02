@@ -1,0 +1,11 @@
+persist.sys.timezone=Europe/Podgorica
+ro.product.locale.language=en
+ro.product.locale.region=ME
+ro.miui.region=ME
+ro.miui.mcc=9297
+ro.miui.mnc=9999
+ro.miui.cust_variant=me
+ro.vendor.miui.region=ME
+ro.vendor.miui.mcc=9297
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=me

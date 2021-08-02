@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Lomé
+ro.product.locale.language=fr
+ro.product.locale.region=TG
+ro.miui.region=TG
+ro.miui.mcc=9615
+ro.miui.mnc=9999
+ro.miui.cust_variant=tg
+ro.vendor.miui.region=TG
+ro.vendor.miui.mcc=9615
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=tg

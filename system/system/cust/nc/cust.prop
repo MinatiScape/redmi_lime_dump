@@ -1,0 +1,11 @@
+persist.sys.timezone=Oceania/Nouméa
+ro.product.locale.language=fr
+ro.product.locale.region=NC
+ro.miui.region=NC
+ro.miui.mcc=9546
+ro.miui.mnc=9999
+ro.miui.cust_variant=nc
+ro.vendor.miui.region=NC
+ro.vendor.miui.mcc=9546
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=nc

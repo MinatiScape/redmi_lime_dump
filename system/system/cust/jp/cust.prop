@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Tokyo
+ro.product.locale.language=ja
+ro.product.locale.region=JP
+ro.miui.region=JP
+ro.miui.mcc=9440
+ro.miui.mnc=9999
+ro.miui.cust_variant=jp
+ro.vendor.miui.region=JP
+ro.vendor.miui.mcc=9440
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=jp

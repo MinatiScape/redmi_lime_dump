@@ -1,0 +1,11 @@
+persist.sys.timezone=America/St_Kitts
+ro.product.locale.language=en
+ro.product.locale.region=KN
+ro.miui.region=KN
+ro.miui.mcc=9356
+ro.miui.mnc=9999
+ro.miui.cust_variant=kn
+ro.vendor.miui.region=KN
+ro.vendor.miui.mcc=9356
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=kn

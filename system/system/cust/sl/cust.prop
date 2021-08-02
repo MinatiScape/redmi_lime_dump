@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Freetown
+ro.product.locale.language=en
+ro.product.locale.region=SL
+ro.miui.region=SL
+ro.miui.mcc=9619
+ro.miui.mnc=9999
+ro.miui.cust_variant=sl
+ro.vendor.miui.region=SL
+ro.vendor.miui.mcc=9619
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=sl

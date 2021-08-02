@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Montevideo
+ro.product.locale.language=es
+ro.product.locale.region=UY
+ro.miui.region=UY
+ro.miui.mcc=9748
+ro.miui.mnc=9999
+ro.miui.cust_variant=uy
+ro.vendor.miui.region=UY
+ro.vendor.miui.mcc=9748
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=uy

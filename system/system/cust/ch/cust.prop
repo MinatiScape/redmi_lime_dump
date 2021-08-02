@@ -1,0 +1,11 @@
+persist.sys.timezone=Europe/Zurich
+ro.product.locale.language=de
+ro.product.locale.region=CH
+ro.miui.region=CH
+ro.miui.mcc=9228
+ro.miui.mnc=9999
+ro.miui.cust_variant=ch
+ro.vendor.miui.region=CH
+ro.vendor.miui.mcc=9228
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ch

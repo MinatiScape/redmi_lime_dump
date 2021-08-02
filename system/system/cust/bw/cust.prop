@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Gaborone
+ro.product.locale.language=en
+ro.product.locale.region=BW
+ro.miui.region=BW
+ro.miui.mcc=9652
+ro.miui.mnc=9999
+ro.miui.cust_variant=bw
+ro.vendor.miui.region=BW
+ro.vendor.miui.mcc=9652
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=bw

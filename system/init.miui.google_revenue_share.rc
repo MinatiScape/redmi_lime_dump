@@ -1,0 +1,28 @@
+# Use the default value for new product.
+on property:ro.miui.cust_variant=* && property:ro.miui.customized_clientid=1
+    setprop ro.com.google.clientidbase android-xiaomi-rev1
+
+# Use the old client id for in,id,ru,sg,my,hk,tw,ua
+on property:ro.miui.cust_variant=in && property:ro.miui.customized_clientid=1
+    setprop ro.com.google.clientidbase android-xiaomi
+
+on property:ro.miui.cust_variant=id && property:ro.miui.customized_clientid=1
+    setprop ro.com.google.clientidbase android-xiaomi
+
+on property:ro.miui.cust_variant=ru && property:ro.miui.customized_clientid=1
+    setprop ro.com.google.clientidbase android-xiaomi
+
+on property:ro.miui.cust_variant=sg && property:ro.miui.customized_clientid=1
+    setprop ro.com.google.clientidbase android-xiaomi
+
+on property:ro.miui.cust_variant=my && property:ro.miui.customized_clientid=1
+    setprop ro.com.google.clientidbase android-xiaomi
+
+on property:ro.miui.cust_variant=hk && property:ro.miui.customized_clientid=1
+    setprop ro.com.google.clientidbase android-xiaomi
+
+on property:ro.miui.cust_variant=tw && property:ro.miui.customized_clientid=1
+    setprop ro.com.google.clientidbase android-xiaomi
+
+on property:ro.miui.cust_variant=ua && property:ro.miui.customized_clientid=1
+    setprop ro.com.google.clientidbase android-xiaomi

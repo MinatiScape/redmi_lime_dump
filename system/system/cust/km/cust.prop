@@ -1,0 +1,11 @@
+persist.sys.timezone=Indian/Comoro
+ro.product.locale.language=fr
+ro.product.locale.region=KM
+ro.miui.region=KM
+ro.miui.mcc=9654
+ro.miui.mnc=9999
+ro.miui.cust_variant=km
+ro.vendor.miui.region=KM
+ro.vendor.miui.mcc=9654
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=km

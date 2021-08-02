@@ -1,0 +1,11 @@
+persist.sys.timezone=Pacific/Tahiti
+ro.product.locale.language=fr
+ro.product.locale.region=PF
+ro.miui.region=PF
+ro.miui.mcc=9547
+ro.miui.mnc=9999
+ro.miui.cust_variant=pf
+ro.vendor.miui.region=PF
+ro.vendor.miui.mcc=9547
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=pf

@@ -1,0 +1,11 @@
+persist.sys.timezone=Oceania/Majuro
+ro.product.locale.language=en
+ro.product.locale.region=MH
+ro.miui.region=MH
+ro.miui.mcc=9551
+ro.miui.mnc=9999
+ro.miui.cust_variant=mh
+ro.vendor.miui.region=MH
+ro.vendor.miui.mcc=9551
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=mh

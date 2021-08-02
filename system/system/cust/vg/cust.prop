@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Tortola
+ro.product.locale.language=en
+ro.product.locale.region=VG
+ro.miui.region=VG
+ro.miui.mcc=9348
+ro.miui.mnc=9999
+ro.miui.cust_variant=vg
+ro.vendor.miui.region=VG
+ro.vendor.miui.mcc=9348
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=vg

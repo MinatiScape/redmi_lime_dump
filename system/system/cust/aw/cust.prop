@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Aruba
+ro.product.locale.language=nl
+ro.product.locale.region=AW
+ro.miui.region=AW
+ro.miui.mcc=9363
+ro.miui.mnc=9999
+ro.miui.cust_variant=aw
+ro.vendor.miui.region=AW
+ro.vendor.miui.mcc=9363
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=aw

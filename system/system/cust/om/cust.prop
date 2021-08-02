@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Muscat
+ro.product.locale.language=en
+ro.product.locale.region=OM
+ro.miui.region=OM
+ro.miui.mcc=9422
+ro.miui.mnc=9999
+ro.miui.cust_variant=om
+ro.vendor.miui.region=OM
+ro.vendor.miui.mcc=9422
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=om

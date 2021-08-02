@@ -1,0 +1,11 @@
+persist.sys.timezone=America/El_Salvador
+ro.product.locale.language=es
+ro.product.locale.region=SV
+ro.miui.region=SV
+ro.miui.mcc=9706
+ro.miui.mnc=9999
+ro.miui.cust_variant=sv
+ro.vendor.miui.region=SV
+ro.vendor.miui.mcc=9706
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=sv

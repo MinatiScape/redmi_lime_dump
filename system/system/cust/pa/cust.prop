@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Panama
+ro.product.locale.language=es
+ro.product.locale.region=PA
+ro.miui.region=PA
+ro.miui.mcc=9714
+ro.miui.mnc=9999
+ro.miui.cust_variant=pa
+ro.vendor.miui.region=PA
+ro.vendor.miui.mcc=9714
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=pa

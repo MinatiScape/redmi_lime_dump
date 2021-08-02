@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018, Xiaomi Inc. All rights reserved. -->
+
+<permissions>
+    <library name="com.miui.okhttp"
+            file="/system/framework/miui-okhttp.jar" />
+</permissions>

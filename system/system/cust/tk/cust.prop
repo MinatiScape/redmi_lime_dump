@@ -1,0 +1,11 @@
+persist.sys.timezone=Pacific/Fakaofo
+ro.product.locale.language=en
+ro.product.locale.region=TK
+ro.miui.region=TK
+ro.miui.mcc=9554
+ro.miui.mnc=9999
+ro.miui.cust_variant=tk
+ro.vendor.miui.region=TK
+ro.vendor.miui.mcc=9554
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=tk

@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Maseru
+ro.product.locale.language=en
+ro.product.locale.region=LS
+ro.miui.region=LS
+ro.miui.mcc=9651
+ro.miui.mnc=9999
+ro.miui.cust_variant=ls
+ro.vendor.miui.region=LS
+ro.vendor.miui.mcc=9651
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ls

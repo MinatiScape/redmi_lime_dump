@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Tegucigalpa
+ro.product.locale.language=es
+ro.product.locale.region=HN
+ro.miui.region=HN
+ro.miui.mcc=9708
+ro.miui.mnc=9999
+ro.miui.cust_variant=hn
+ro.vendor.miui.region=HN
+ro.vendor.miui.mcc=9708
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=hn

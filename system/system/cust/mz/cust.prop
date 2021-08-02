@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Maputo
+ro.product.locale.language=pt
+ro.product.locale.region=MZ
+ro.miui.region=MZ
+ro.miui.mcc=9643
+ro.miui.mnc=9999
+ro.miui.cust_variant=mz
+ro.vendor.miui.region=MZ
+ro.vendor.miui.mcc=9643
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=mz

@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Bamako
+ro.product.locale.language=fr
+ro.product.locale.region=ML
+ro.miui.region=ML
+ro.miui.mcc=9610
+ro.miui.mnc=9999
+ro.miui.cust_variant=ml
+ro.vendor.miui.region=ML
+ro.vendor.miui.mcc=9610
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ml

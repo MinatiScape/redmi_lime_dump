@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Guyana
+ro.product.locale.language=es
+ro.product.locale.region=GY
+ro.miui.region=GY
+ro.miui.mcc=9738
+ro.miui.mnc=9999
+ro.miui.cust_variant=gy
+ro.vendor.miui.region=GY
+ro.vendor.miui.mcc=9738
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=gy

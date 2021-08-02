@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Thimphu
+ro.product.locale.language=en
+ro.product.locale.region=BT
+ro.miui.region=BT
+ro.miui.mcc=9402
+ro.miui.mnc=9999
+ro.miui.cust_variant=bt
+ro.vendor.miui.region=BT
+ro.vendor.miui.mcc=9402
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=bt

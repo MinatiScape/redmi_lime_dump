@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Guayaquil
+ro.product.locale.language=es
+ro.product.locale.region=EC
+ro.miui.region=EC
+ro.miui.mcc=9740
+ro.miui.mnc=9999
+ro.miui.cust_variant=ec
+ro.vendor.miui.region=EC
+ro.vendor.miui.mcc=9740
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ec

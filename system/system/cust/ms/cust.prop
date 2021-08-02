@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Montserrat
+ro.product.locale.language=en
+ro.product.locale.region=MS
+ro.miui.region=MS
+ro.miui.mcc=9354
+ro.miui.mnc=9999
+ro.miui.cust_variant=ms
+ro.vendor.miui.region=MS
+ro.vendor.miui.mcc=9354
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ms

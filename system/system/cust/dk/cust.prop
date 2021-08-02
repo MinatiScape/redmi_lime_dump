@@ -1,0 +1,11 @@
+persist.sys.timezone=Europe/Copenhagen
+ro.product.locale.language=en
+ro.product.locale.region=DK
+ro.miui.region=DK
+ro.miui.mcc=9238
+ro.miui.mnc=9999
+ro.miui.cust_variant=dk
+ro.vendor.miui.region=DK
+ro.vendor.miui.mcc=9238
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=dk

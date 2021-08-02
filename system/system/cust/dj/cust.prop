@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Djibouti
+ro.product.locale.language=fr
+ro.product.locale.region=DJ
+ro.miui.region=DJ
+ro.miui.mcc=9638
+ro.miui.mnc=9999
+ro.miui.cust_variant=dj
+ro.vendor.miui.region=DJ
+ro.vendor.miui.mcc=9638
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=dj

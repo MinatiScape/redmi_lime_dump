@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Juba
+ro.product.locale.language=en
+ro.product.locale.region=SS
+ro.miui.region=SS
+ro.miui.mcc=9659
+ro.miui.mnc=9999
+ro.miui.cust_variant=ss
+ro.vendor.miui.region=SS
+ro.vendor.miui.mcc=9659
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ss

@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Cayman
+ro.product.locale.language=en
+ro.product.locale.region=KY
+ro.miui.region=KY
+ro.miui.mcc=9346
+ro.miui.mnc=9999
+ro.miui.cust_variant=ky
+ro.vendor.miui.region=KY
+ro.vendor.miui.mcc=9346
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ky

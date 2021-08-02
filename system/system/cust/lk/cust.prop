@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Colombo
+ro.product.locale.language=si
+ro.product.locale.region=LK
+ro.miui.region=LK
+ro.miui.mcc=9413
+ro.miui.mnc=9999
+ro.miui.cust_variant=lk
+ro.vendor.miui.region=LK
+ro.vendor.miui.mcc=9413
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=lk

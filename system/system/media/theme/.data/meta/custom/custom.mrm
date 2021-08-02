@@ -1,0 +1,12 @@
+[
+    {
+        "subject": "limedefault",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "local": {
+            "id": "0"
+        }
+    }
+]

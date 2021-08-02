@@ -1,0 +1,6 @@
+# qadaemon rc
+
+service qadaemon /system/xbin/qadaemon
+    class main
+    user root
+    group system

@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Belize
+ro.product.locale.language=en
+ro.product.locale.region=BZ
+ro.miui.region=BZ
+ro.miui.mcc=9702
+ro.miui.mnc=9999
+ro.miui.cust_variant=bz
+ro.vendor.miui.region=BZ
+ro.vendor.miui.mcc=9702
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=bz

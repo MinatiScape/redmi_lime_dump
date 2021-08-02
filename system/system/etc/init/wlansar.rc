@@ -1,0 +1,25 @@
+service setwlansarlow /vendor/bin/setwlansarlow.sh
+    disabled
+    user root
+    oneshot
+#    seclabel u:r:wlansar:s0
+
+service setwlansarhigh /vendor/bin/setwlansarhigh.sh
+    disabled
+    user root
+    oneshot
+#    seclabel u:r:wlansar:s0
+
+service getwlansar /vendor/bin/getwlansar.sh
+    disabled
+    user root
+    oneshot
+    group root root
+#    seclabel u:r:wlansar:s0
+
+service setsardiag /vendor/bin/setsardiag
+    disabled
+    user root
+    oneshot
+#    seclabel u:r:diag:s0
+

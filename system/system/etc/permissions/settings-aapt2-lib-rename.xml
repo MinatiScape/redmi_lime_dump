@@ -1,0 +1,4 @@
+<permissions>
+    <library name="security-device-credential-sdk.jar" file="/system/framework/security-device-credential-sdk.jar" />
+    <library name="micloud-sdk" file="/system/priv-app/RtMiCloudSDK/RtMiCloudSDK.apk" />
+</permissions>

@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Tripoli
+ro.product.locale.language=en
+ro.product.locale.region=LY
+ro.miui.region=LY
+ro.miui.mcc=9606
+ro.miui.mnc=9999
+ro.miui.cust_variant=sy
+ro.vendor.miui.region=LY
+ro.vendor.miui.mcc=9606
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=sy

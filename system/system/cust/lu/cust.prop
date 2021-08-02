@@ -1,0 +1,11 @@
+persist.sys.timezone=Europe/Luxembourg
+ro.product.locale.language=en
+ro.product.locale.region=LU
+ro.miui.region=LU
+ro.miui.mcc=9270
+ro.miui.mnc=9999
+ro.miui.cust_variant=lu
+ro.vendor.miui.region=LU
+ro.vendor.miui.mcc=9270
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=lu

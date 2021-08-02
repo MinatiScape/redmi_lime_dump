@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Bissau
+ro.product.locale.language=pt_PT
+ro.product.locale.region=GW
+ro.miui.region=GW
+ro.miui.mcc=9632
+ro.miui.mnc=9999
+ro.miui.cust_variant=gw
+ro.vendor.miui.region=GW
+ro.vendor.miui.mcc=9632
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=gw

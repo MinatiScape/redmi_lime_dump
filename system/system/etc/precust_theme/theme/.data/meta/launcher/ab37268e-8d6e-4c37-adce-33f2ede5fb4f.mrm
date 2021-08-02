@@ -1,0 +1,108 @@
+{
+  "localId": "ab37268e-8d6e-4c37-adce-33f2ede5fb4f",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "6bebfaf50af7f9998984f524df2402f8f179cc62",
+  "platform": 8,
+  "size": 25568,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "MIUI"
+  },
+  "designers": {
+    "fallback": "MIUI"
+  },
+  "titles": {
+    "ro_RO": "Nelimitat",
+    "es_US": "Ilimitado",
+    "pt_BR": "Limitless",
+    "th_TH": "ไร้ขีดจำกัด",
+    "bn_BD": "সীমাহীন",
+    "in_ID": "Tanpa Batas",
+    "cs_CZ": "Nekonečno",
+    "ne_IN": "अपार",
+    "kn_IN": "ಅಪಾರ",
+    "sk_SK": "Bezhraničný",
+    "es_ES": "Sin límites",
+    "te_IN": "అపరిమితం",
+    "ur_IN": "لامحدود",
+    "ta_IN": "வானமே எல்லை",
+    "sr_RS": "Неограничено",
+    "my_MM": "အတိုင်းအဆမဲ့",
+    "iw_IL": "ללא גבולות",
+    "ko_KR": "리미트리스",
+    "en_US": "Limitless",
+    "lt_LT": "Beribis",
+    "en_IN": "Limitless",
+    "kk_KZ": "Шексіз",
+    "it_IT": "Senza limiti",
+    "ru_RU": "Безграничность",
+    "el_GR": "Απεριόριστο",
+    "pl_PL": "Bez ograniczeń",
+    "tr_TR": "Sınırsız",
+    "hi_IN": "असीमित",
+    "mr_IN": "अमर्याद",
+    "fr_FR": "Illimité",
+    "ja_JP": "リミットレス",
+    "ms_MY": "Tiada Batasan",
+    "or_IN": "ସୀମାବିହୀନ",
+    "zh_TW": "無界",
+    "zh_HK": "無界",
+    "uz_UZ": "Cheksiz",
+    "ha_NG": "Na marasa iyaka",
+    "as_IN": "সীমাহীন",
+    "bn_IN": "সীমাহীন",
+    "pa_IN": "ਅਸੀਮਿਤ",
+    "fa_IR": "بی‌حاشیه",
+    "vi_VN": "Không giới hạn",
+    "az_AZ": "Limitsiz",
+    "en_GB": "Limitless",
+    "gu_IN": "અસીમિત",
+    "uk_UA": "Безмежність",
+    "ml_IN": "അതിരറ്റത്",
+    "ne_NP": "अपार",
+    "ur_PK": "لامحدود",
+    "zh_CN": "无界",
+    "ar_EG": "بلا حدود"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ],
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "en_US": [
+      "en_US_launcher_0.jpg",
+      "en_US_launcher_1.jpg"
+    ],
+    "fallback": [
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "ebfce684-1d1e-4a70-ae14-f7ca038f4d34",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null,
+  "screenRatio": null
+}

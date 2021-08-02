@@ -1,0 +1,11 @@
+persist.sys.timezone=America/St_Vincent
+ro.product.locale.language=en
+ro.product.locale.region=VC
+ro.miui.region=VC
+ro.miui.mcc=9360
+ro.miui.mnc=9999
+ro.miui.cust_variant=vc
+ro.vendor.miui.region=VC
+ro.vendor.miui.mcc=9360
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=vc

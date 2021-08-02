@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Almaty
+ro.product.locale.language=kk
+ro.product.locale.region=KZ
+ro.miui.region=KZ
+ro.miui.mcc=9401
+ro.miui.mnc=9999
+ro.miui.cust_variant=kz
+ro.vendor.miui.region=KZ
+ro.vendor.miui.mcc=9401
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=kz

@@ -1,0 +1,11 @@
+persist.sys.timezone=Pacific/Nauru
+ro.product.locale.language=en
+ro.product.locale.region=NR
+ro.miui.region=NR
+ro.miui.mcc=9536
+ro.miui.mnc=9999
+ro.miui.cust_variant=nr
+ro.vendor.miui.region=NR
+ro.vendor.miui.mcc=9536
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=nr

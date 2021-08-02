@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Monrovia
+ro.product.locale.language=en
+ro.product.locale.region=LR
+ro.miui.region=LR
+ro.miui.mcc=9618
+ro.miui.mnc=9999
+ro.miui.cust_variant=lr
+ro.vendor.miui.region=LR
+ro.vendor.miui.mcc=9618
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=lr

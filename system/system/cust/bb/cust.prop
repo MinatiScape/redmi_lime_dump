@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Barbados
+ro.product.locale.language=en
+ro.product.locale.region=BB
+ro.miui.region=BB
+ro.miui.mcc=9342
+ro.miui.mnc=9999
+ro.miui.cust_variant=bb
+ro.vendor.miui.region=BB
+ro.vendor.miui.mcc=9342
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=bb

@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Dushanbe
+ro.product.locale.language=en
+ro.product.locale.region=TJ
+ro.miui.region=TJ
+ro.miui.mcc=9436
+ro.miui.mnc=9999
+ro.miui.cust_variant=tj
+ro.vendor.miui.region=TJ
+ro.vendor.miui.mcc=9436
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=tj

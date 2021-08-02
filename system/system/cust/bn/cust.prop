@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Brunei
+ro.product.locale.language=ms
+ro.product.locale.region=BN
+ro.miui.region=BN
+ro.miui.mcc=9528
+ro.miui.mnc=9999
+ro.miui.cust_variant=bn
+ro.vendor.miui.region=BN
+ro.vendor.miui.mcc=9528
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=bn

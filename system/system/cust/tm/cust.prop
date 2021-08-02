@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Ashgabat
+ro.product.locale.language=en
+ro.product.locale.region=TM
+ro.miui.region=TM
+ro.miui.mcc=9438
+ro.miui.mnc=9999
+ro.miui.cust_variant=tm
+ro.vendor.miui.region=TM
+ro.vendor.miui.mcc=9438
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=tm

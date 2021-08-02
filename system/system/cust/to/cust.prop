@@ -1,0 +1,11 @@
+persist.sys.timezone=Pacific/Tongatapu
+ro.product.locale.language=en
+ro.product.locale.region=TO
+ro.miui.region=TO
+ro.miui.mcc=9539
+ro.miui.mnc=9999
+ro.miui.cust_variant=to
+ro.vendor.miui.region=TO
+ro.vendor.miui.mcc=9539
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=to

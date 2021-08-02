@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Johannesburg
+ro.product.locale.language=en
+ro.product.locale.region=ZA
+ro.miui.region=ZA
+ro.miui.mcc=9655
+ro.miui.mnc=9999
+ro.miui.cust_variant=za
+ro.vendor.miui.region=ZA
+ro.vendor.miui.mcc=9655
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=za

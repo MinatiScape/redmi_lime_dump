@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Puerto_Rico
+ro.product.locale.language=es_US
+ro.product.locale.region=PR
+ro.miui.region=PR
+ro.miui.mcc=9330
+ro.miui.mnc=9999
+ro.miui.cust_variant=pr
+ro.vendor.miui.region=PR
+ro.vendor.miui.mcc=9330
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=pr

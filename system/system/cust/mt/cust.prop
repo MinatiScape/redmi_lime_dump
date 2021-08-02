@@ -1,0 +1,11 @@
+persist.sys.timezone=Europe/Malta
+ro.product.locale.language=en
+ro.product.locale.region=MT
+ro.miui.region=MT
+ro.miui.mcc=9278
+ro.miui.mnc=9999
+ro.miui.cust_variant=mt
+ro.vendor.miui.region=MT
+ro.vendor.miui.mcc=9278
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=mt

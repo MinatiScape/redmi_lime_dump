@@ -1,0 +1,11 @@
+persist.sys.timezone=Europe/Sukhumi
+ro.product.locale.language=en
+ro.product.locale.region=AB
+ro.miui.region=AB
+ro.miui.mcc=9289
+ro.miui.mnc=9999
+ro.miui.cust_variant=ab
+ro.vendor.miui.region=AB
+ro.vendor.miui.mcc=9289
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ab

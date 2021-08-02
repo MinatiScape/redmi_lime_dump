@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Libreville
+ro.product.locale.language=fr
+ro.product.locale.region=GA
+ro.miui.region=GA
+ro.miui.mcc=9628
+ro.miui.mnc=9999
+ro.miui.cust_variant=ga
+ro.vendor.miui.region=GA
+ro.vendor.miui.mcc=9628
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ga

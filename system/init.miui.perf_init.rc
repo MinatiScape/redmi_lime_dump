@@ -1,0 +1,8 @@
+# mkdir /data/extm
+
+on post-fs-data
+    # Setup /data/extm as per_boot directory
+    exec - system system -- /bin/rm -rf /data/extm
+    mkdir /data/extm 2770 root system encryption=Require key=per_boot_ref
+    restorecon_recursive /data/extm
+    start system_perf_init

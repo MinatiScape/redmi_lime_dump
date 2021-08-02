@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/São_Tomé
+ro.product.locale.language=pt_PT
+ro.product.locale.region=ST
+ro.miui.region=ST
+ro.miui.mcc=9626
+ro.miui.mnc=9999
+ro.miui.cust_variant=st
+ro.vendor.miui.region=ST
+ro.vendor.miui.mcc=9626
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=st

@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Ouagadougou
+ro.product.locale.language=fr
+ro.product.locale.region=BF
+ro.miui.region=BF
+ro.miui.mcc=9613
+ro.miui.mnc=9999
+ro.miui.cust_variant=bf
+ro.vendor.miui.region=BF
+ro.vendor.miui.mcc=9613
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=bf

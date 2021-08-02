@@ -1,0 +1,25 @@
+{
+    "title": "黑与白",
+    "titleResId": "wallpaper_group_black_white_title",
+    "cardType": 1,
+    "count": 4,
+    "slideCount": 4,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./BlackAndWhite01.jpg",
+        "originPath": "./BlackAndWhite01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./BlackAndWhite02.jpg",
+        "originPath": "./BlackAndWhite02.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./BlackAndWhite03.jpg",
+        "originPath": "./BlackAndWhite03.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./BlackAndWhite04.jpg",
+        "originPath": "./BlackAndWhite04.jpg",
+        "type": "wallpaper"
+    }]
+}

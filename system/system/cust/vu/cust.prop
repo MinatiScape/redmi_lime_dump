@@ -1,0 +1,11 @@
+persist.sys.timezone=Pacific/Efate
+ro.product.locale.language=en
+ro.product.locale.region=VU
+ro.miui.region=VU
+ro.miui.mcc=9541
+ro.miui.mnc=9999
+ro.miui.cust_variant=vu
+ro.vendor.miui.region=VU
+ro.vendor.miui.mcc=9541
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=vu

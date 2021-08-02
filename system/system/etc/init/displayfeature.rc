@@ -1,0 +1,5 @@
+service displayfeature /system/bin/displayfeature
+    class main
+    user root
+    group system root
+    oneshot

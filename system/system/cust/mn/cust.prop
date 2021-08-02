@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Ulaanbaatar
+ro.product.locale.language=mn
+ro.product.locale.region=MN
+ro.miui.region=MN
+ro.miui.mcc=9428
+ro.miui.mnc=9999
+ro.miui.cust_variant=mn
+ro.vendor.miui.region=MN
+ro.vendor.miui.mcc=9428
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=mn

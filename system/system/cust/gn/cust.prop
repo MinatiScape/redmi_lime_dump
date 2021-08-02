@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Conakry
+ro.product.locale.language=fr
+ro.product.locale.region=GN
+ro.miui.region=GN
+ro.miui.mcc=9611
+ro.miui.mnc=9999
+ro.miui.cust_variant=gn
+ro.vendor.miui.region=GN
+ro.vendor.miui.mcc=9611
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=gn

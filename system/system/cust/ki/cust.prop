@@ -1,0 +1,11 @@
+persist.sys.timezone=Oceania/Tarawa
+ro.product.locale.language=en
+ro.product.locale.region=KI
+ro.miui.region=KI
+ro.miui.mcc=9545
+ro.miui.mnc=9999
+ro.miui.cust_variant=ki
+ro.vendor.miui.region=KI
+ro.vendor.miui.mcc=9545
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ki

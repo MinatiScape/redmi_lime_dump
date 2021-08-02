@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Vientiane
+ro.product.locale.language=lo
+ro.product.locale.region=LA
+ro.miui.region=LA
+ro.miui.mcc=9457
+ro.miui.mnc=9999
+ro.miui.cust_variant=la
+ro.vendor.miui.region=LA
+ro.vendor.miui.mcc=9457
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=la

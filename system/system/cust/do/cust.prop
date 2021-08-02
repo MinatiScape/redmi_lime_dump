@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Santo_Domingo
+ro.product.locale.language=es
+ro.product.locale.region=DO
+ro.miui.region=DO
+ro.miui.mcc=9370
+ro.miui.mnc=9999
+ro.miui.cust_variant=do
+ro.vendor.miui.region=DO
+ro.vendor.miui.mcc=9370
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=do

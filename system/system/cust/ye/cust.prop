@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Aden
+ro.product.locale.language=en
+ro.product.locale.region=YE
+ro.miui.region=YE
+ro.miui.mcc=9421
+ro.miui.mnc=9999
+ro.miui.cust_variant=ye
+ro.vendor.miui.region=YE
+ro.vendor.miui.mcc=9421
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ye

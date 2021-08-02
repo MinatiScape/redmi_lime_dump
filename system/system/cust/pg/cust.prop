@@ -1,0 +1,11 @@
+persist.sys.timezone=Oceania/Port_Moresby
+ro.product.locale.language=en
+ro.product.locale.region=PG
+ro.miui.region=PG
+ro.miui.mcc=9537
+ro.miui.mnc=9999
+ro.miui.cust_variant=af
+ro.vendor.miui.region=PG
+ro.vendor.miui.mcc=9537
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=af

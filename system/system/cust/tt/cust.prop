@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Port_of_Spain
+ro.product.locale.language=en
+ro.product.locale.region=TT
+ro.miui.region=TT
+ro.miui.mcc=9374
+ro.miui.mnc=9999
+ro.miui.cust_variant=tt
+ro.vendor.miui.region=TT
+ro.vendor.miui.mcc=9374
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=tt

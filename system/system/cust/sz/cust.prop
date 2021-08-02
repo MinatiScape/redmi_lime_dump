@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Mbabane
+ro.product.locale.language=en
+ro.product.locale.region=SZ
+ro.miui.region=SZ
+ro.miui.mcc=9653
+ro.miui.mnc=9999
+ro.miui.cust_variant=sz
+ro.vendor.miui.region=SZ
+ro.vendor.miui.mcc=9653
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=sz

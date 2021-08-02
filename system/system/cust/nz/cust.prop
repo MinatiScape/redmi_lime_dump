@@ -1,0 +1,11 @@
+persist.sys.timezone=Pacific/Auckland
+ro.product.locale.language=en
+ro.product.locale.region=NZ
+ro.miui.region=NZ
+ro.miui.mcc=9530
+ro.miui.mnc=9999
+ro.miui.cust_variant=nz
+ro.vendor.miui.region=NZ
+ro.vendor.miui.mcc=9530
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=nz

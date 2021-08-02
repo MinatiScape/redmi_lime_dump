@@ -1,0 +1,28 @@
+{
+    "title": "红色火星",
+    "titleResId": "wallpaper_group_red_mars_title",
+    "subtitle":"NASA / JPL / 亚利桑那大学",
+    "subtitleResId":"wallpaper_group_red_mars_subtitle",
+    "cardType": 1,
+    "count": 4,
+    "slideCount": 4,
+    "conflictWithSuperWallpaper":true,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./Mars01.jpg",
+        "originPath": "./Mars01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Mars02.jpg",
+        "originPath": "./Mars02.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Mars03.jpg",
+        "originPath": "./Mars03.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Mars04.jpg",
+        "originPath": "./Mars04.jpg",
+        "type": "wallpaper"
+    }]
+}

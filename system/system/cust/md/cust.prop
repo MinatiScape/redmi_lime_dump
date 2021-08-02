@@ -1,0 +1,11 @@
+persist.sys.timezone=Europe/Chisinau
+ro.product.locale.language=ro
+ro.product.locale.region=MD
+ro.miui.region=MD
+ro.miui.mcc=9259
+ro.miui.mnc=9999
+ro.miui.cust_variant=md
+ro.vendor.miui.region=MD
+ro.vendor.miui.mcc=9259
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=md

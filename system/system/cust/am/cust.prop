@@ -1,0 +1,11 @@
+persist.sys.timezone=Asia/Yerevan
+ro.product.locale.language=en
+ro.product.locale.region=AM
+ro.miui.region=AM
+ro.miui.mcc=9283
+ro.miui.mnc=9999
+ro.miui.cust_variant=am
+ro.vendor.miui.region=AM
+ro.vendor.miui.mcc=9283
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=am

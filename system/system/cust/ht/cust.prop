@@ -1,0 +1,11 @@
+persist.sys.timezone=America/Port-au-Prince
+ro.product.locale.language=fr
+ro.product.locale.region=HT
+ro.miui.region=HT
+ro.miui.mcc=9372
+ro.miui.mnc=9999
+ro.miui.cust_variant=ht
+ro.vendor.miui.region=HT
+ro.vendor.miui.mcc=9372
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ht

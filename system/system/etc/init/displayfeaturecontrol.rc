@@ -1,0 +1,6 @@
+service displayfeaturecontrol /system/bin/hw/displayfeaturecontrol
+    class hal
+    user root
+    group system root
+    oneshot
+    seclabel u:r:displayfeaturecontrol:s0

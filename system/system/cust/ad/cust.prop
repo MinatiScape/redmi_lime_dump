@@ -1,0 +1,11 @@
+persist.sys.timezone=Europe/Andorra
+ro.product.locale.language=ca
+ro.product.locale.region=AD
+ro.miui.region=AD
+ro.miui.mcc=9213
+ro.miui.mnc=9999
+ro.miui.cust_variant=ad
+ro.vendor.miui.region=AD
+ro.vendor.miui.mcc=9213
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=ad

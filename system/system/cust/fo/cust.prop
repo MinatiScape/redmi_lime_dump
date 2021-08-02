@@ -1,0 +1,11 @@
+persist.sys.timezone=Atlantic/Faroe
+ro.product.locale.language=en
+ro.product.locale.region=FO
+ro.miui.region=FO
+ro.miui.mcc=9288
+ro.miui.mnc=9999
+ro.miui.cust_variant=fo
+ro.vendor.miui.region=FO
+ro.vendor.miui.mcc=9288
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=fo

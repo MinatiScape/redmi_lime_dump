@@ -1,0 +1,11 @@
+persist.sys.timezone=Europe/Prague
+ro.product.locale.language=cs
+ro.product.locale.region=CZ
+ro.miui.region=CZ
+ro.miui.mcc=9230
+ro.miui.mnc=9999
+ro.miui.cust_variant=cz
+ro.vendor.miui.region=CZ
+ro.vendor.miui.mcc=9230
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=cz

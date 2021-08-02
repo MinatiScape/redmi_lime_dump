@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Cairo
+ro.product.locale.language=en
+ro.product.locale.region=EG
+ro.miui.region=EG
+ro.miui.mcc=9602
+ro.miui.mnc=9999
+ro.miui.cust_variant=eg
+ro.vendor.miui.region=EG
+ro.vendor.miui.mcc=9602
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=eg

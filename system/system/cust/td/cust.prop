@@ -1,0 +1,11 @@
+persist.sys.timezone=Africa/Ndjamena
+ro.product.locale.language=fr
+ro.product.locale.region=TD
+ro.miui.region=TD
+ro.miui.mcc=9622
+ro.miui.mnc=9999
+ro.miui.cust_variant=td
+ro.vendor.miui.region=TD
+ro.vendor.miui.mcc=9622
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=td

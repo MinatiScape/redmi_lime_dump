@@ -1,0 +1,11 @@
+persist.sys.timezone=Pacific/Pago_Pago
+ro.product.locale.language=en
+ro.product.locale.region=AS
+ro.miui.region=AS
+ro.miui.mcc=9544
+ro.miui.mnc=9999
+ro.miui.cust_variant=as
+ro.vendor.miui.region=AS
+ro.vendor.miui.mcc=9544
+ro.vendor.miui.mnc=9999
+ro.vendor.miui.cust_variant=as
