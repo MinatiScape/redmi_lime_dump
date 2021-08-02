@@ -1,0 +1,34 @@
+user=updater seinfo=platform domain=updater type=app_data_file levelFrom=user
+user=backup seinfo=platform domain=backup type=app_data_file levelFrom=user
+user=theme seinfo=platform domain=theme type=app_data_file
+user=finddevice seinfo=platform domain=platform_app type=app_data_file
+user=system seinfo=platform name=com.xiaomi.joyose domain=joyose_app type=system_app_data_file
+user=_app seinfo=platform isPrivApp=true name=com.miui.video domain=priv_app type=privapp_data_file levelFrom=user
+user=_app seinfo=platform isPrivApp=true name=com.android.soundrecorder domain=priv_app type=privapp_data_file levelFrom=user
+user=_app seinfo=platform isPrivApp=true name=com.android.soundrecorder:remote domain=priv_app type=privapp_data_file levelFrom=user
+user=_app seinfo=platform isPrivApp=true name=com.xiaomi.o2o domain=priv_app type=privapp_data_file levelFrom=user
+user=_app seinfo=platform name=com.xiaomi.scanner domain=untrusted_app type=app_data_file levelFrom=user
+user=_app seinfo=platform isPrivApp=true name=com.xiaomi.scanner domain=priv_app type=privapp_data_file levelFrom=user
+user=_app seinfo=platform name=com.xiaomi.shop domain=untrusted_app type=app_data_file levelFrom=user
+user=_app seinfo=platform name=com.xiaomi.shop:mishop.update domain=untrusted_app type=app_data_file levelFrom=user
+user=_app seinfo=platform name=com.xiaomi.shop:mishop.push domain=untrusted_app type=app_data_file levelFrom=user
+user=_app seinfo=platform name=com.xiaomi.shop:remote domain=untrusted_app type=app_data_file levelFrom=user
+user=_app seinfo=platform name=com.xiaomi.o2o domain=untrusted_app type=app_data_file levelFrom=user
+user=_app seinfo=platform isPrivApp=true name=com.miui.gallery domain=priv_app type=privapp_data_file levelFrom=user
+user=_app seinfo=platform isPrivApp=true name=com.miui.personalassistant domain=untrusted_app type=app_data_file levelFrom=user
+user=_app seinfo=platform isPrivApp=true name=com.miui.personalassistant:alipayinside domain=untrusted_app type=app_data_file levelFrom=user
+user=_app seinfo=platform name=com.xiaomi.jr domain=untrusted_app type=app_data_file levelFrom=user
+user=radio seinfo=platform name=.dataservices domain=vendor_dataservice_app type=radio_data_file
+user=_app seinfo=platform name=com.qualcomm.telephony domain=vendor_qtelephony type=app_data_file levelFrom=all
+user=_app seinfo=platform name=org.codeaurora.ims isPrivApp=true domain=vendor_qtelephony type=app_data_file levelFrom=all
+user=_app seinfo=platform name=com.qualcomm.qti.devicestatisticsservice domain=vendor_qtelephony type=app_data_file levelFrom=all
+user=_app seinfo=platform name=com.qualcomm.location.XT isPrivApp=true domain=vendor_location_app type=app_data_file
+user=_app seinfo=platform name=com.qualcomm.location isPrivApp=true domain=vendor_location_app type=app_data_file
+user=_app seinfo=platform name=com.qualcomm.wfd.service:wfd_service domain=vendor_wfd_app type=app_data_file levelFrom=all
+user=_app seinfo=platform name=com.qualcomm.wfd.client domain=vendor_wfd_app type=app_data_file levelFrom=all
+user=_app seinfo=platform name=com.qualcomm.qti.ssmeditor domain=vendor_qconfig_app type=app_data_file levelFrom=all
+user=system seinfo=platform name=com.qualcomm.qti.qdma isPrivApp=true domain=vendor_qcc_app type=system_app_data_file
+user=system seinfo=platform name=com.qualcomm.qti.qcclmtp isPrivApp=true domain=vendor_qcc_lmtp_app type=system_app_data_file
+user=system seinfo=platform name=com.qualcomm.qti.qdmautils isPrivApp=true domain=vendor_qcc_utils_app type=system_app_data_file
+user=_app seinfo=platform name=com.caf.fmradio domain=vendor_fm_app type=app_data_file levelFrom=all
+user=_app seinfo=platform name=com.qualcomm.qti.seccamservice:remote domain=vendor_seccam_app type=app_data_file

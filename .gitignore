@@ -1,0 +1,5 @@
+system_ext/priv-app/Settings/Settings.apk
+vendor/lib64/camera/components/com.qti.node.mialgocontrol.so
+product/priv-app/Velvet/Velvet.apk
+system/system/apex/com.android.vndk.current.apex
+system/system/app/MiuiVideoPlayer/MiuiVideoPlayer.apk

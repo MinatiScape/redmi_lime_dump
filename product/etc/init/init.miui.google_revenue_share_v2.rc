@@ -1,0 +1,32 @@
+# Use the default value for new product.
+on property:ro.miui.customized_clientid=2
+    setprop ro.com.miui.rsa tier1
+    setprop ro.com.google.clientidbase android-xiaomi
+    setprop ro.com.google.clientidbase.ms android-xiaomi-rvo3
+    setprop ro.com.google.clientidbase.vs android-xiaomi-rvo3
+    setprop ro.com.google.clientidbase.tx android-xiaomi-rvo3
+    setprop ro.com.google.clientidbase.ax android-xiaomi-rvo3
+
+# For H3G COTA
+on property:ro.miui.customized.region=hk_h3g && property:ro.miui.customized_clientid=2
+    setprop ro.com.miui.rsa tier1
+    setprop ro.com.google.clientidbase android-xiaomi
+    setprop ro.com.google.clientidbase.ms android-h3g-{country}-revc
+    setprop ro.com.google.clientidbase.vs android-h3g-{country}-revc
+    setprop ro.com.google.clientidbase.tx android-xiaomi-rvo3
+    setprop ro.com.google.clientidbase.ax android-xiaomi-rvo3
+
+# For Orange COTA
+on property:ro.miui.customized.region=fr_orange && property:ro.miui.customized_clientid=2
+    setprop ro.com.miui.rsa tier1
+    setprop ro.com.google.clientidbase  android-xiaomi
+    setprop ro.com.google.clientidbase.ms android-orange-{country}-revc
+    setprop ro.com.google.clientidbase.vs android-orange-{country}-revc
+    setprop ro.com.google.clientidbase.tx android-xiaomi-rvo3
+    setprop ro.com.google.clientidbase.ax android-xiaomi-rvo3
+    setprop ro.com.google.clientidbase.pg android-orange-gtmp
+
+# Use the old client id for ru only
+#on property:ro.miui.cust_variant=ru && property:ro.miui.customized_clientid=2
+#    setprop ro.com.google.clientidbase android-xiaomi
+#    setprop ro.com.google.clientidbase.ms android-xiaomi
