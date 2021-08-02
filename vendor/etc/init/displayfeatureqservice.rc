@@ -1,0 +1,8 @@
+service displayfeatureqservice /vendor/bin/hw/displayfeatureqservice
+    class hal
+    user system
+    group system root
+    oneshot
+    seclabel u:r:displayfeatureqservice:s0
+on boot
+    start displayfeatureqservice

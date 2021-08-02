@@ -1,0 +1,53 @@
+service screenmode0 /vendor/bin/factory_bin s 0
+    class main
+    user root
+    oneshot
+    disabled
+
+service screenmode1 /vendor/bin/factory_bin s 1
+    class main
+    user root
+    oneshot
+    disabled
+
+service screenmode3 /vendor/bin/factory_bin s 3
+    class main
+    user root
+    oneshot
+    disabled
+
+service enablefreqhop /vendor/bin/factory_bin c 1
+    class main
+    user root
+    oneshot
+    disabled
+
+service disablefreqhop /vendor/bin/factory_bin c 0
+    class main
+    user root
+    oneshot
+    disabled
+
+service openpocket /vendor/bin/factory_bin p 1
+    class main
+    user root
+    oneshot
+    disabled
+
+service closepocket /vendor/bin/factory_bin p 0
+    class main
+    user root
+    oneshot
+    disabled
+
+service headset_in_screenmode /vendor/bin/factory_bin q 1
+    class main
+    user root
+    oneshot
+    disabled
+
+service headset_out_screenmode /vendor/bin/factory_bin q 0
+    class main
+    user root
+    oneshot
+    disabled
